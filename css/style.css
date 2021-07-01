@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+
+body{
+    overflow-x: hidden;
+ }
+
+.logo a {
+    font-family: 'Zen Dots', cursive !important;
+    font-size: 1rem;
+}
+
+.navbar-nav a:hover {
+    color: rgb(201, 201, 201) !important;
+}
+
+.logo a:hover {
+    color: rgb(201, 201, 201) !important;
+    transition: color .15s ease-in-out, .15s ease-in-out, .15s ease-in-out;
+}
+
+.menu a {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+}
+
+.slogan {
+    font-family: 'Zen Dots', cursive !important;
+}
+
+.bg-azul-navbar {
+    background-color: #052644;
+}
+
+.bg-azul {
+    background-color: #074274;
+}
+
+.titulos
+{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.caracteristicas {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    font-size: 2.5rem;
+}
+
+.screenshots {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    font-size: 2.5rem;
+}
+
+.reseñas {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    font-size: 2.5rem;
+}
+
+.epigrafe {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.3rem;
+}
+
+.redes-sociales {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    font-size: 2.5rem;
+}
+
+.social a {
+    font-size: 50px;
+    color: #074274 !important;
+}
+
+.social a:hover {
+    color: #0e5ea3 !important;
+}
+
+.btnEnviar {
+    color: white !important;
+    background-color: #074274;
+}
+
+.btnEnviar:hover {
+    color: grey !important;
+    background-color:#074274;
+}
+
+.contacto {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    font-size: 2.5rem;
+}
+
+.descarga-ya {
+    font-family: 'Zen Dots', cursive !important;
+    font-size: 3rem;
+}
